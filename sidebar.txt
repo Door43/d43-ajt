@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ajt:home|Door43 (ajt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ajt|d43-ajt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ajt/archive/master.zip|d43-ajt.zip]]
+
+**Recent Changes**
+{{changes>ns = ajt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ajt|Ethnologue data]]
+
